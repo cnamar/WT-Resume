@@ -1,10 +1,10 @@
-$("#service-section").hide();
+$("#qualifications-section").hide();
 $("#skills-section").hide();
 $("#contact-section").hide();
 var pagestatus = [
   { id: "#home-section", status: true },
   { id: "#skills-section", status: false },
-  { id: "#service-section", status: false },
+  { id: "#qualifications-section", status: false },
   { id: "#contact-section", status: false },
 ];
 
